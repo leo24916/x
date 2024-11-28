@@ -1,4 +1,4 @@
-$\huge 哲$
+$\huge 哲$ $\LaTeX$
 
 $\large 哲学$`zhe2xue2`　philosophy. ${\large 哲学} {\tiny てつ \atop がく}$. 　
 

@@ -11,6 +11,6 @@ $\Large 哲$ $\LaTeX$
 
 # $\Large 哲$ $\LaTeX$
 
-# 哲 $\LaTeX$
+# 哲 $\Im \wp \aleph \Finv$
 
-### $\Large 哲$ $\LaTeX$
+### $\Large 哲$ $\sum_{i=1}^\infty 1/n^2$
